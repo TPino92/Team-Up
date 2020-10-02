@@ -1,0 +1,27 @@
+{
+  "name": "team-up",
+  "version": "1.0.0",
+  "description": "command line app to generate a team's basic info",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TPino92/Team-Up.git"
+  },
+  "author": "Trevor Pino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TPino92/Team-Up/issues"
+  },
+  "homepage": "https://github.com/TPino92/Team-Up#readme"
+}
